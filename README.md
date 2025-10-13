@@ -5,23 +5,23 @@
 ---
 
 ### Обо мне
-- Мне важно не просто строить пайплайны и улучшать скор, а приносить финансовую ценность бизнесу в условиях технофеодализма.
+- Мне важно создавать ML-решения, которые приносят финансовую ценность бизнесу.
 - Опыт от классического ML до трансформеров около 2 лет.
 - Разрабатываю end-to-end ML-решения: сбор и очистка данных, обучение и тестирование моделей, деплой и мониторинг в продакшене
-- Успешно прошла бассейн от Школы 21 Сбер с зачислением <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/medium_f3ccdd27d2000e3f9255a7e3e2c48800.jpg" height="25"/></h1>
+- Успешно прошла бассейн от Школы 21 Сбер с зачислением <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/medium_f3ccdd27d2000e3f9255a7e3e2c48800.jpg" height="25"/>
  
 ---
 
 ### 📂 Избранные проекты - оформление в работе, могу скинуть kaggle notebooks
-- Кредитный скоринг на последовательных данных
-- Прогнозирования температуры стали для оптимизации энергопотребления
-- Оценка рыночной стоимости автомобилей с пробегом
-- Автоматическая классификация токсичных комментариев в интернет-магазине с BERT
+- 🏦 Кредитный скоринг - RNN + бустинг, ROC-AUC 0.74, Docker, ETL в процессе
+- 🌡️ Прогнозирование температуры стали - оптимизация энергопотребления, PyTorch, Pandas
+- 🚗 Оценка стоимости автомобилей - ML-модель, LightGBM, анализ данных
+- 📝 Классификация токсичных комментариев - BERT, NLP, автоматизация
 
 ---
 
-### Сейчас работаю над:
-- проектом кредитного скоринга: завершаю обучение RNN-модели и планирую превратить проект в ETL-пайплайн с организацией данных по папкам для повторного использования и продакшн-инференса.
+### Сейчас в работе:
+- Завершаю RNN-модель для кредитного скоринга, превращаю проект в ETL-пайплайн для повторного использования и инференса.
 - читаю книгу про System Design в машинном обучении
 
 ---
@@ -33,9 +33,8 @@
 ---
 
 ### Стек 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
 
