@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Катя</a> 
+<h2 align="center">Привет, я Катя</a> 
 <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Reporting%20Social%20Media%20GIF%20by%20Agorapulse.gif" height="40"/></h1>
 <h3 align="center"> Data Scientist с уклоном в ML Engineering </h3>
 
