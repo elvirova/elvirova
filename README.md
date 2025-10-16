@@ -18,9 +18,9 @@ Customer_segmentation Public
 
 ### 📂 Избранные проекты - оформление в работе, могу скинуть kaggle notebooks
 |  | Описание | Статус |
-|--------|----------|--------|
+|--|----------|--------|
 | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/wwh5l7ed.png" width="30"> | [Кредитный скоринг](https://github.com/elvirova/credit_scoring) - RNN + бустинг, ROC-AUC 0.74, Docker, ETL в процессе | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Cat%20Working%20GIF.gif" height="40"/> | 
-| 🥧 | [Сегментация клиентов](https://github.com/elvirova/Customer_segmentation) и прогноз оттока клиентов - LogReg, ROC-AUC 0.90, phik, SHAP | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Cat%20Working%20GIF.gif" height="40"/> |
+| <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/pie.gif" width="30"> | [Сегментация клиентов](https://github.com/elvirova/Customer_segmentation) и прогноз оттока клиентов - LogReg, ROC-AUC 0.90, phik, SHAP | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Cat%20Working%20GIF.gif" height="40"/> |
 | 🌡️ | Прогнозирование температуры металла - оптимизация энергопотребления, PyTorch, Pandas | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Cat%20Working%20GIF.gif" height="40"/> | 
 | 🚗 | Оценка стоимости автомобилей - ML-модель, LightGBM, анализ данных | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Cat%20Working%20GIF.gif" height="40"/> | 
 | 📝 | Классификация токсичных комментариев - BERT, NLP, автоматизация | <img src="https://github.com/elvirova/elvirova/blob/main/raw/images/Cat%20Working%20GIF.gif" height="40"/> |
